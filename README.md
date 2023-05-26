@@ -1,6 +1,5 @@
-### Hi there 👋
 <h2 align="center">
-I'm a Full-Stack Web Developer 💻, Photographer 📸, and Designer 🎨!
+Hi there 👋, I'm a Full-Stack Web Developer 💻
 </h2>
 <p align="center">
   <a href="https://www.edwardarvinius.com/" target="_blank" rel="noreferrer"><img src="images/banner_png.png" alt="my banner"></a>
