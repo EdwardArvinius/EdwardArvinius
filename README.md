@@ -5,9 +5,6 @@ Hi there 👋, I'm a Full-Stack Web Developer 💻
   <a href="https://www.edwardarvinius.com/" target="_blank" rel="noreferrer"><img src="images/banner_png.png" alt="my banner"></a>
 </p>
 
-
-## 💼 Technical Skills
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/edward-arvinius-248819117/" target="blank"><img align="center" src="https://raw.githubusercontent.com/codemaker2015/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/edward-arvinius-248819117/" height="30" width="40" /></a>
