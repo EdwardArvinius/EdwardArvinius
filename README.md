@@ -2,7 +2,7 @@
 Hi there 👋, I'm a Full-Stack Web Developer 💻
 </h2>
 <p align="center">
-  <a href="https://www.edwardarvinius.com/" target="_blank" rel="noreferrer"><img src="images/banner_png.png" alt="my banner"></a>
+  <a href="https://www.edwardarvinius.com/" target="_blank" rel="noreferrer"><img src="images/Banner_new.png" alt="my banner"></a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
