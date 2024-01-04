@@ -17,10 +17,11 @@ Hi there 👋, I'm a Full-Stack Web Developer 💻
   <img src="https://komarev.com/ghpvc/?username=edwardarvinius&label=Profile%20views&color=0e75b6&style=flat" alt="edwardarvinius" />
 </p>
 
+<!-- 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=edwardarvinius&show_icons=true&locale=en&layout=compact" alt="edwardarvinius" />
 </p>
-
+-->
 
 
 <!-- 
