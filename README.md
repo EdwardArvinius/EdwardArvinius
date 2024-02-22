@@ -1,5 +1,5 @@
 <h2 align="center">
-Hi there 👋, I'm a Full-Stack Web Developer 💻
+Hi there 👋, I'm a Developer 💻
 </h2>
 <p align="center">
   <a href="https://www.edwardarvinius.com/" target="_blank" rel="noreferrer"><img src="images/Banner_new.png" alt="my banner"></a>
